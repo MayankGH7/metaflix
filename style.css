@@ -80,6 +80,7 @@ nav button{
   border: 0;
   outline: 0;
   margin-left: 20px;
+  background:#fff
 }
 .email-signup button{
   background: #db0001;
