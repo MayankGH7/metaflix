@@ -90,8 +90,13 @@ nav button{
   font-size: 16px;
   cursor: pointer;
   padding: 15px 30px;
+  display: flex;
+  align-items: center;
 }
-
+.email-signup button i{
+  font-size: 20px;
+  margin-left: 5px;  
+}
 /* ..........Features...........*/
 .features{
   padding: 50px 12%;
