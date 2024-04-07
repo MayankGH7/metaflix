@@ -1,4 +1,4 @@
-# Metaflix - A Netflix Clone
+# Metaflix - A Netflix UI Clone 
 
 Metaflix is a web page designed as a parody of Netflix. It mimics the Netflix style but humorously states that you won't find any content to watch here. This HTML web page is a fun project.
 
